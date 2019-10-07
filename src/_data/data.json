@@ -1,0 +1,28 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "info@valea-gepisului.ro",
+    "phone"          : "0728110626",
+    "address"        : "Comuna Groși, Jud. Bihor - Apuseni.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Pensiunea Valea Gepisului",
+    "app_subtitle"   : "O oaza de liniste in inima Bihorului",
+
+    "seo_title"      : "Pensiunea Valea Gepisului - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "Cazare intr-o oaza de liniste in inima Bihorului, departe de agitatie urbana.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://github.com/creare-site/demo-pensiune-apuseni-valea-gepisului", 
+    "github"         : "https://github.com/creare-site/demo-pensiune-apuseni-valea-gepisului",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/pensiuneavaleagepisului/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
