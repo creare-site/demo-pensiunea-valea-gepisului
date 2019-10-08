@@ -1,4 +1,4 @@
-﻿# [Pensiunea Valea Gepisului](https://pensiune-apuseni-valea-gepisului.websitemarket.ro/) - Site Prezentare
+﻿# [Pensiunea Valea Gepisului](https://websitemarket.ro/creare-site/pensiuni/apuseni-valea-gepisului/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Pensiunea Valea Gepisului](https://pensiune-apuseni-valea-gepisului.websitemarket.ro/) un produs **WebsiteMarket**
+[Pensiunea Valea Gepisului](https://websitemarket.ro/creare-site/pensiuni/apuseni-valea-gepisului/) un produs **WebsiteMarket**
